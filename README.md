@@ -19,7 +19,7 @@ sudo pacrepo
 
 ## Building
 
-1. Ensure you have Go 1.16+ installed and clone this repository:
+1. Ensure you have Go 1.24+ installed and clone this repository:
    ```bash
    git clone git@github.com:zewebdev1337/pacrepo.git
    cd pacrepo
